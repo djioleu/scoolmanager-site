@@ -44,7 +44,7 @@
   // NOTE : site statique. Le formulaire compose un e-mail via mailto.
   // Pour une réception automatique, brancher un service (Formspree, etc.)
   // en remplaçant le bloc ci-dessous.
-  var CONTACT_EMAIL = 'contact@debacs.cm'; // ← à remplacer par votre e-mail
+  var CONTACT_EMAIL = 'brehmedjioleu@gmail.com';
   var form = document.getElementById('contactForm');
   var note = document.getElementById('formNote');
   if (form) {
